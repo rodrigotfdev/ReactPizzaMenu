@@ -19,7 +19,7 @@ function PizzaItem({ pizzaObj }) {
       <div>
         <h3>{pizzaObj.name}</h3>
         <p>{pizzaObj.ingredients}</p>
-        <span>{pizzaObj.price}</span>
+        <span>{pizzaObj.soldOut ? 'SOLD-OUT' : ''}</span>
       </div>
     </li>
   );
