@@ -37,13 +37,13 @@ The application has the following key components:
 
 ## See it in practice
 
-You can preview the application at the following link: [VERCEL LIVE APP PREVIEW](https://pizza-menu-iota.vercel.app/)
+You can preview the application at the following link: [NETLIFY LIVE APP PREVIEW]https://pizzastoremenu.netlify.app/
 
 or clone the repository to your computer and run 'npm install' and 'npm run dev' in the terminal to open it.
 
 ## Project Images
+![image](https://github.com/user-attachments/assets/cb0ceb0c-fe55-42c3-a94c-1b15e8b36b5c)
 
-![image](https://github.com/rodrigotfdev/reactPizzaMenu/assets/52326702/2f2a9c8e-47f6-4c25-9dcf-97f3e8487823)
 
 
 
